@@ -4,7 +4,9 @@
   "description": "this is namasthe react by koti",
   "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "parcel index.html",
+    "build_production": "parcel build index.html"
   },
   "repository": {
     "type": "git",
